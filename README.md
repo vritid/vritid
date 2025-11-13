@@ -2,7 +2,7 @@
 
 **Computer Science Spec @ Uoft**
 
-Passionate about **building end-to-end data solutions** from **AI model development and analytics** to **cloud deployment and full-stack integration**. My interests lie in **scalable ML systems, Dockerized production pipelines, and data-driven applications** that connect AI with real-world usability.
+Driven by a passion for using AI and data science to transform financial technology, I specialize in end-to-end development of data systems—from machine learning models and analytics to cloud-based deployment and full-stack applications. I’m particularly interested in scalable fintech infrastructure, risk modeling, and real-time data pipelines that power smarter finance.
 
 
 ---
