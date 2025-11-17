@@ -1,55 +1,38 @@
-# 👋 Hi, I’m Vriti!
+# Vriti Dahiya | Computer Science Specialist @ University of Toronto
 
-**Computer Science Spec @ Uoft**
-
-Driven by a passion for using AI and data science to transform financial security and technology, I specialize in end-to-end development of data systems. Inlcuding machine learning models and analytics to cloud-based deployment and full-stack applications. I’m particularly interested in scalable fintech infrastructure, risk modeling, and real-time data pipelines that power secure and smarter finance.
-
+### Professional Summary
+My work focuses on building robust, end-to-end data systems that bridge **Generative AI** and **algorithmic decision-making**. I apply techniques across scalable **fintech infrastructure**, **risk modeling**, and **automated reasoning** to solve the "black-box" problem. I am particularly interested in the formal challenges of **Sequential Decision Optimization** and designing **Interactive Recommender Systems** that minimize uncertainty in high-stakes environments.
 
 ---
 
-## 💻 Tech Stack
-**Languages & Backend:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Core Technical Competencies
 
+#### Data Science, AI & Decision Systems
+* **AI/LLM:** Gemini 2.5 Pro (API Integration), Machine Learning Model Development
+* **Languages:** Python (Primary for ML/Data), Java, TypeScript
+* **Data/Analytics:** SQL, SQLite, MongoDB
 
-**Web & Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+#### Backend & System Development
+* **Frameworks:** FastAPI, Flask, Node.js (JavaScript/TypeScript)
+* **APIs & Deployment:** Docker, AWS (Lambda/ECS), Git
+* **Testing:** Postman / curl
 
-**Backend & APIs:**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**File & Document Processing:**  
-Python, PyPDF2 (PDFs), image handling for scanned docs  
-
-**AI & Machine Learning:**  
-![Gemini 2.5 Pro](https://img.shields.io/badge/Gemini_2.5_Pro-FF69B4?style=for-the-badge&logoColor=white)  
-
-**Testing & Deployment:**  
-Postman / curl for API testing, Local server with Uvicorn  
+#### Web, UI & Document Processing
+* **Front-end:** React, Next.js, HTML5, CSS3, Figma
+* **File Handling:** PyPDF2 (PDFs), Image handling (scanned documents)
 
 ---
 
-## 🌱 Currently Learning
-Advanced AI, cloud deployment, production-grade Docker, full-stack integration
+### Current Focus & Research Interests (MLOps & Cloud Architecture)
+
+My current focus is on mastering **production-grade MLOps and secure cloud architecture**. Specifically, I am deepening my expertise in:
+
+* **Advanced Cloud Deployment (IaC):** Implementing **Infrastructure as Code (IaC)** using **Terraform** for secure, automated deployment on **AWS**.
+* **System Reliability:** Designing **event-driven architectures** and building **CI/CD pipelines** (e.g., GitHub Actions) to ensure real-time data ingestion and high availability.
+* **Microservices/Integration:** Mastering **container orchestration** (Kubernetes principles) to manage production-grade microservices and secure, high-throughput API endpoints.
+
 ---
 
-## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vriti-dahiya/)
-[![Devpost](https://img.shields.io/badge/Devpost-FF7F00?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/vritid)
-
----
+### 🔗 Connect
+* [**LinkedIn**](https://www.linkedin.com/in/vriti-dahiya/)
+* [**Devpost**](https://devpost.com/vritid)
