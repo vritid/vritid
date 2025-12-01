@@ -1,7 +1,7 @@
 # Vriti Dahiya | Computer Science Specialist @ University of Toronto
 
 ### Professional Summary
-My work focuses on building robust, end-to-end data systems that bridge **Generative AI** and **algorithmic decision-making**. I apply techniques across scalable **fintech infrastructure**, **risk modeling**, and **automated reasoning** to solve the "black-box" problem. I am particularly interested in the formal challenges of **Sequential Decision Optimization** and designing **Interactive Recommender Systems** that minimize uncertainty in high-stakes environments.
+My work focuses on building end-to-end data systems that connect **Generative AI** and **algorithmic decision-making**. I apply techniques across scalable **fintech infrastructure**, **risk modeling**, and **automated reasoning** to solve the "black-box" problem. I am particularly interested in the formal challenges of **Sequential Decision Optimization** and designing **Interactive Recommender Systems** that minimize uncertainty in high-stakes environments.
 
 ---
 
