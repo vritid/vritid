@@ -8,4 +8,4 @@
 - **Cloud & Production Systems:** AWS, Docker, FastAPI/Flask, CI/CD, Terraform, event-driven microservices  
 - **Web & UI:** React, Next.js, HTML/CSS, Figma, PDF/image data processing  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/vriti-dahiya/) | [Devpost](https://devpost.com/vritid)
+🔗 [LinkedIn](https://www.linkedin.com/in/vriti-dahiya/) | [Devpost](https://devpost.com/vritid) | [Website] (https://vritid.github.io/portfolio/)
