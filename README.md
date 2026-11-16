@@ -1,6 +1,7 @@
 # Vriti Dahiya | Computer Science Specialist @ University of Toronto
 
 ### Experiences
+- **Incoming AI Analyst @ Deloitte**
 - **AI Dev @ Co-operators**
 - **BWLab**: Research Assistant: ML & Cognitive Modeling
 - **Research Collab at Oxford:** AR-based emotional intelligence intervention; study prep & evaluation design (COM-B)
